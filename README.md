@@ -1,36 +1,32 @@
-# international-tour-packages
-International tour packages and holiday experiences for Indian and NRI travelers.
-# 🌍 International Tour Packages
+# International Tour Packages | People Holidays – International Holidays from Mumbai
 
-This repository represents People Holidays’ core expertise in international tour packages for Indian travelers and NRIs.
+People Holidays is a Mumbai-based travel agency and tour operator offering
+customised international tour packages for Indian travellers, families,
+couples, honeymooners, and NRIs.
 
-We curate well-planned international holidays across Asia, Europe, Oceania, the Gulf, and select African destinations—covering leisure, luxury, budget, honeymoon, and group travel experiences.
+We plan international holidays from Mulund (West), Mumbai with a focus on
+clear itineraries, reliable partners, and stress-free travel.
 
----
+🌐 Website: https://www.peopleholidays.in/international-tour-packages
+📞 Phone: +91 93244 55999
+📍 Address: Mulund (West), Mumbai – 400080, Maharashtra, India
 
-## ✈️ What This Covers
+## International Destinations by People Holidays
 
-- International holiday packages for Indian and NRI travelers  
-- Asia, South-East Asia, Europe, Gulf, Oceania, and Africa  
-- Family holidays, couple trips, honeymoons, and group tours  
-- Budget-friendly and luxury international travel options  
+- Europe tour packages
+- Asia tour packages
+- Middle East holidays (Dubai & Abu Dhabi)
+- Island holidays (Maldives, Bali)
+- Family-friendly international tours
+- Honeymoon & luxury international packages
 
----
+## Why Choose People Holidays for International Travel
 
-## 🎯 Who This Is For
+- Mumbai-based international travel specialists
+- Customised itineraries (not fixed group tours)
+- Visa guidance & documentation support
+- Family-friendly & senior-friendly planning
+- Personal assistance before and during travel
 
-- Indian travelers
-- NRI travelers
-- Families and couples
-- Honeymooners
-- Group and corporate travelers
-
----
-
-## 🧭 International Travel Philosophy
-
-At People Holidays, international travel planning focuses on clarity, comfort, and customization—ensuring smooth journeys, transparent pricing, and memorable global experiences.
-
----
-
-🔗 Explore international holidays at: https://www.peopleholidays.in/
+People Holidays specialises in safe, well-planned,
+and reliable international holidays from Mumbai.
